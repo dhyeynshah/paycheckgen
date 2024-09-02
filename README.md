@@ -24,3 +24,8 @@ PaycheckGen is a Java and SQL-based system designed for employee calendar manage
 - Clone or download the PaycheckGen repository:
   ```bash
   git clone https://github.com/your-username/paycheckgen.git
+
+### 4. Downloading Employee Paychecks
+- Once set up, the system will generate and download an employee paycheck as a PDF file. The file will be named after the employee.
+
+
