@@ -1,5 +1,4 @@
 # paycheckgen
- # PaycheckGen
 
 PaycheckGen is a Java and SQL-based system designed for employee calendar management and payroll generation. It integrates with a live database using XAMPP.
 
